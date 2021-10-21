@@ -18,7 +18,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dz4va&show_icons=true&locale=en&layout=compact&count_private=true&theme=radical" alt="dz4va" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dz4va&show_icons=true&locale=en" alt="dz4va" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dz4va&show_icons=true&locale=en&theme=radical" alt="dz4va" /></p>
 
 <p align="left"> <a href="https://twitter.com/gdzzz_" target="blank"><img src="https://img.shields.io/twitter/follow/gdzzz_?logo=twitter&style=for-the-badge" alt="gdzzz_" /></a> </p>
 
