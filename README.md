@@ -16,9 +16,14 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dz4va&theme=tokyonight" alt="dz4va" /></a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dz4va&show_icons=true&locale=en&layout=compact&count_private=true&theme=radical" alt="dz4va" /></p>
+<p>
+<img src="https://github-readme-stats.vercel.app/api?username=dz4va&count_private=true&show_icons=true&theme=blueberry&include_all_commits=true" height="180em"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dz4va&show_icons=true&layout=compact&cache_seconds=1800&langs_count=8&theme=blueberry&count_private=true&show_icons=true" height="180em"/>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dz4va&show_icons=true&locale=en&theme=radical&layout=compact" alt="dz4va" /></p>
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dz4va&show_icons=true&locale=en&layout=compact&count_private=true&theme=radical" alt="dz4va" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dz4va&show_icons=true&locale=en&theme=radical&layout=compact" alt="dz4va" /></p> -->
 
 <p align="left"> <a href="https://twitter.com/gdzzz_" target="blank"><img src="https://img.shields.io/twitter/follow/gdzzz_?logo=twitter&style=for-the-badge" alt="gdzzz_" /></a> </p>
 
