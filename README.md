@@ -1,4 +1,4 @@
-<h1 align="center">I'm George</h1>
+<h3 align="center">Hello, I'm George</h3>
 <h3 align="center">Software developer with passion and enthusiasm for games.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dz4va&label=Profile%20views&color=0e75b6&style=flat" alt="dz4va" /> </p>
