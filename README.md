@@ -21,6 +21,4 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dz4va&show_icons=true&layout=compact&cache_seconds=1800&langs_count=8&theme=blueberry&count_private=true&show_icons=true" height="140em"/>
 </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dz4va&theme=holi-theme&hide_border=true&date_format=n%2Fj%5B%2FY%5D&count_private=true" alt="dz4va" height="140em"/></p>
-
 <p align="left"> <a href="https://twitter.com/gdzzz_" target="blank"><img src="https://img.shields.io/twitter/follow/gdzzz_?logo=twitter&style=for-the-badge" alt="gdzzz_" height="30em" /></a> <img src="https://komarev.com/ghpvc/?username=dz4va&label=Profile%20views&color=0e75b6&style=flat" alt="dz4va" height="30em"/> </p>
