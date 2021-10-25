@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Games and software for Redpix Games](https://redpixgames.com)
 
-- 🌱 I’m currently learning **Pixi.js, React**
+- 🌱 I’m currently learning **Pixi.js, React, GraphQL, Tailwind CSS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/dz4va](https://github.com/dz4va)
 
