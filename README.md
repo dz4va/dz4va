@@ -7,8 +7,6 @@
 - 💬 Ask me about **Unity, C#, Node.js, Javascript, Typescript**
 - ⚡ Fun fact **I love dogs and cats. Especially dogs. I will adopt one soon.**
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dz4va&theme=tokyonight&&no-frame=true" alt="dz4va" height="103em" /></a> </p>
-
 <p>
 <img src="https://github-readme-stats.vercel.app/api?username=dz4va&count_private=true&show_icons=true&theme=blueberry&include_all_commits=true&count_private=true" height="140em"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dz4va&show_icons=true&layout=compact&cache_seconds=1800&langs_count=8&theme=blueberry&count_private=true&show_icons=true" height="140em"/>
