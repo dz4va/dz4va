@@ -2,7 +2,7 @@
 <h3 align="center">Software developer with passion and enthusiasm for games.</h3>
 
 - 🔭 I’m currently working on [Games and software for Redpix Games](https://redpixgames.com)
-- 🌱 I’m currently learning **Pixi.js, Next.js, GraphQL, Tailwind CSS**
+- 🌱 I’m currently learning **More GameDev, Pixi.js, Next.js, GraphQL, Tailwind CSS**
 - 👨‍💻 All of my projects are available at [https://github.com/dz4va](https://github.com/dz4va)
 - 💬 Ask me about **Unity, C#, Node.js, Javascript, Typescript**
 - ⚡ Fun fact **I love dogs and cats. Especially dogs. I will adopt one soon.**
