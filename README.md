@@ -15,3 +15,5 @@
 <p align="left"> <a href="https://twitter.com/gdzzz_" target="blank"><img src="https://img.shields.io/twitter/follow/gdzzz_?logo=twitter&style=for-the-badge" alt="gdzzz_" height="30em" /></a> <img src="https://komarev.com/ghpvc/?username=dz4va&label=Profile%20views&color=0e75b6&style=flat" alt="dz4va" height="30em"/> </p>
 
 Keeb info ⌨️: Keychron K6, Gateron Oil King switches, PBT keycaps, factory stabs, tape mod
+
+[Monkey Type Link](https://monkeytype.com/profile/dz4va)
