@@ -18,4 +18,4 @@ First keyboard info ⌨️: KBParadise v60
 Previous keyboard info ⌨️: Keychron K6, Gateron Oil King switches, PBT keycaps, factory stabs, tape mod
 Current keyboard info ⌨️: Nuphy Halo 75, Gateron Red 2.0
 
-[Monkey Type Link](https://monkeytype.com/profile/dz4va)
+[Monkey Type](https://monkeytype.com/profile/dz4va)
