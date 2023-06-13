@@ -14,8 +14,9 @@
 
 <p align="left"> <a href="https://twitter.com/gdzzz_" target="blank"><img src="https://img.shields.io/twitter/follow/gdzzz_?logo=twitter&style=for-the-badge" alt="gdzzz_" height="30em" /></a> <img src="https://komarev.com/ghpvc/?username=dz4va&label=Profile%20views&color=0e75b6&style=flat" alt="dz4va" height="30em"/> </p>
 
-First keyboard info ⌨️: KBParadise v60
-Previous keyboard info ⌨️: Keychron K6, Gateron Oil King switches, PBT keycaps, factory stabs, tape mod
-Current keyboard info ⌨️: Nuphy Halo 75, Gateron Red 2.0
+<h2>Keebs ⌨️</h2>
+<p>First keyboard ⌨️: KBParadise v60</p>
+<p>Previous keyboard ⌨️: Keychron K6, Gateron Oil King switches, PBT keycaps, factory stabs, tape mod</p>
+<p>Current keyboard ⌨️: Nuphy Halo 75, Gateron Red 2.0</p>
 
 [Monkey Type](https://monkeytype.com/profile/dz4va)
